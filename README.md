@@ -7,7 +7,8 @@ I'm still learning and looking for new challenges.
 
 During my training process, I have known below tools basics:
 
-![Trello)](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/5f239bd8-6601-4427-8fd4-f1f9667c52d0)    Trello Azure Devops
+![trello(1)](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/13004cc2-4cae-463d-a0ff-194421d30929)
+Trello, Azure Devops
 
 ![Postamn](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/2beea608-ff02-491a-a7cd-c5ac39f1723a)    Postman
 
