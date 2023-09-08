@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi everyone! 👋
+
+Once a researcher, I am now an aspiring software tester.
+I'm looking for new challenges.
 
 <!--
 **agnieszka19882/agnieszka19882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
