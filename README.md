@@ -10,7 +10,8 @@ Contact with me:
 During my training process, I have known below tools basics:
 
 
-![trello(1)](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/59e41ce1-d26e-4e24-af62-f2ef30ab1bd2)    Trello, Azure Devops    
+![trello(1)](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/59e41ce1-d26e-4e24-af62-f2ef30ab1bd2)    Trello, Azure Devops   
+
 ![Postamn](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/2beea608-ff02-491a-a7cd-c5ac39f1723a)    Postman    
 
 ![Jira](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/2c2ac932-2a92-441e-9758-79e2ad2d6121)    Jira
