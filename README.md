@@ -1,5 +1,3 @@
-![13749076_2005 i601 021 IT specialist composition flat](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/ead00d24-3482-489a-b512-afd3d1dfd2ae)
-
 ### Hi everyone! 👋
 
 Once a researcher, I am now an aspiring software tester.
