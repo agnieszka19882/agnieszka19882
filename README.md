@@ -1,6 +1,7 @@
 
 ### Hi everyone! 👋  
 Once a researcher, I am now an aspiring software tester.
+
 I'm still learning and looking for new challenges.
 
 ---------------------------------------------------------------------------
