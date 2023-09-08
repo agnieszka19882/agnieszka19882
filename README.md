@@ -2,9 +2,8 @@
 ### Hi everyone! 👋  
 Once a researcher, I am now an aspiring software tester.
 I'm looking for new challenges.
-
 During my training process, I have known below tools basics:
-![trello(1)](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/5f239bd8-6601-4427-8fd4-f1f9667c52d0)
+- ![trello(1)](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/5f239bd8-6601-4427-8fd4-f1f9667c52d0)
 
 <!--
 **agnieszka19882/agnieszka19882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
