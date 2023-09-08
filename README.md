@@ -5,7 +5,8 @@ I'm looking for new challenges.
 
 During my training process, I have known below tools basics:
 
-![trello(1)](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/5f239bd8-6601-4427-8fd4-f1f9667c52d0),![postman](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/9bf96468-ecb0-4ed3-9e09-ef1c918e245c)
+![trello(1)](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/5f239bd8-6601-4427-8fd4-f1f9667c52d0) ![postman](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/47f4cd46-ee1b-409c-91e7-f2432fc0f5a6)
+
 
 
 <!--
