@@ -1,7 +1,8 @@
 
 ### Hi everyone! 👋  
 Once a researcher, I am now an aspiring software tester.      
-                                                                                                                                                                    
+                                                                                                           ![24122199_bwink_msc_09_single_05](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/cc4e5532-cfe5-4658-8b91-b9503f1d4ed4)
+                                                         
 I'm still learning and looking for new challenges.
 
 ---------------------------------------------------------------------------
