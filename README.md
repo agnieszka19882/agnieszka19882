@@ -3,9 +3,11 @@
 Once a researcher, I am now an aspiring software tester.
 I'm still learning and looking for new challenges.
 
+Contact with me:
 
 
-During my training process, I have known below tools basics:
+
+### During my training process, I have known below tools basics:
 
 
 ![trello(1)](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/59e41ce1-d26e-4e24-af62-f2ef30ab1bd2)
