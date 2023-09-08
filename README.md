@@ -1,6 +1,5 @@
 
-### Hi everyone! 👋  ![11667265_20943506](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/922fff56-ad5d-4580-9056-e125eb2b39c4)
-
+### Hi everyone! 👋  
 Once a researcher, I am now an aspiring software tester.
 I'm looking for new challenges.
 
