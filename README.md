@@ -5,6 +5,7 @@ I'm still learning and looking for new challenges.
 
 Contact with me:
 
+![[linkedin](https://www.linkedin.com/in/agnieszka-ilinska-b732581b8)](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/25e93c0e-5641-44d0-be5f-9f947c6a2919)
 
 
 During my training process, I have known below tools basics:
