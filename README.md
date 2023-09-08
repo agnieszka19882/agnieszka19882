@@ -1,6 +1,7 @@
 
 ### Hi everyone! 👋  
-Once a researcher, I am now an aspiring software tester.
+Once a researcher, I am now an aspiring software tester.      
+                                                                                                                                                                                            ![noun-hacker-4988614](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/a7b69203-c8c2-4cbf-9137-d7a22bedb084)
 
 I'm still learning and looking for new challenges.
 
