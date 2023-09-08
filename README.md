@@ -1,7 +1,7 @@
 
 ### Hi everyone! 👋  
 Once a researcher, I am now an aspiring software tester.
-I'm looking for new challenges.
+I'm still learning and looking for new challenges.
 
 During my training process, I have known below tools basics:
 
