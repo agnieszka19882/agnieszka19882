@@ -20,8 +20,6 @@ During my training process, I have known below tools basics:
 
 ![avatar](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/ba292244-6f0f-4c52-adde-dff8b96ab3ae)    [More about me](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Contact with me:
 
 [![linkedin](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/336523de-ad42-45ee-a72a-9b2aa7d7cbf4)](https://www.linkedin.com/in/agnieszka-ilinska-b732581b8)
