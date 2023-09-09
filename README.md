@@ -20,9 +20,9 @@ During my training process, I have known below tools basics:
 
 ![avatar](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/ba292244-6f0f-4c52-adde-dff8b96ab3ae)    [More about me](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska)
 
-Contact with me:
+![gmail](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/af333351-08d7-4ff9-b899-794cbbda7f4c)    [Contact with me](ilinska.agnieszka@gmail.com)
 
-[![linkedin](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/336523de-ad42-45ee-a72a-9b2aa7d7cbf4)](https://www.linkedin.com/in/agnieszka-ilinska-b732581b8)
+![linkedin](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/336523de-ad42-45ee-a72a-9b2aa7d7cbf4)[My Linkedin](https://www.linkedin.com/in/agnieszka-ilinska-b732581b8)
 
 <!--
 **agnieszka19882/agnieszka19882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
