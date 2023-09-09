@@ -16,7 +16,7 @@ During my training process, I have known below tools basics:
  Jira    |    ![git](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/31e79c73-e18b-4c09-a90d-34fa58b14e74)    Git, Git Bash, GitHub    |    ![sql-file](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/4b6a479f-7db5-4504-8455-eb699a0ee110)    MySQL    |    ![chrome](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/e438e762-4d4c-4e3c-a721-4593bc386876)        ChromeDevtools
 
 
-![avatar](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/ba292244-6f0f-4c52-adde-dff8b96ab3ae)[More about me](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska)
+![avatar](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/ba292244-6f0f-4c52-adde-dff8b96ab3ae)    [More about me](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska)
 
 Contact with me:
 
