@@ -15,7 +15,8 @@ During my training process, I have known below tools basics:
   Postman  |    ![jira](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/bc1f6fb4-fef0-4b75-b02a-42fc00c4c41f)
  Jira    |    ![git](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/31e79c73-e18b-4c09-a90d-34fa58b14e74)    Git, Git Bash, GitHub    |    ![sql-file](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/4b6a479f-7db5-4504-8455-eb699a0ee110)    MySQL    |    ![chrome](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/e438e762-4d4c-4e3c-a721-4593bc386876)        ChromeDevtools
 
-[More about me] (https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska)
+(More about me) [https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska]
+
 Contact with me:
 
 ![[linkedin](https://www.linkedin.com/in/agnieszka-ilinska-b732581b8)](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/25e93c0e-5641-44d0-be5f-9f947c6a2919)     ![gmail](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/855e3f9f-e9f3-491d-8aeb-0dc0536ac8e4)
