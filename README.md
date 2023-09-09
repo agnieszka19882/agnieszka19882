@@ -1,5 +1,6 @@
 
-Hi everyone! 👋                                                                                                
+Hi everyone! 👋  
+
 Once a researcher, I am now an aspiring software tester.                                      
                                                          
 I'm still learning and looking for new challenges.
@@ -17,7 +18,7 @@ During my training process, I have known below tools basics:
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![avatar](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/ba292244-6f0f-4c52-adde-dff8b96ab3ae)    ###[More about me](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska)
+![avatar](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/ba292244-6f0f-4c52-adde-dff8b96ab3ae)    [More about me](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Contact with me:
