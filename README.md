@@ -1,6 +1,7 @@
 
-### Hi everyone! 👋  
-Once a researcher, I am now an aspiring software tester.                                                                                                    
+### Hi everyone! 👋                                                                                                
+Once a researcher, I am now an aspiring software tester.                                       ![search-bug](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/ddc62c22-8672-4c3b-9665-1ad7a895ba39)
+                                      
                                                          
 I'm still learning and looking for new challenges.
 
