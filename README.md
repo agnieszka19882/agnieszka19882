@@ -1,7 +1,7 @@
 
 Hi everyone! 👋
 
-I'm a manual software tester with 1.5 years of experience.
+I'm a manual software tester with over a year of experience.
 
 Still learning, still curious, always looking for new challenges.
 
