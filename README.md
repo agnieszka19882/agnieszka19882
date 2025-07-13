@@ -1,9 +1,9 @@
 
-Hi everyone! 👋  
+Hi everyone! 👋
 
-Once a researcher, I am now an aspiring software tester.                                      
-                                                         
-I'm still learning and looking for new challenges.
+I'm a manual software tester with 1.5 years of experience.
+
+Still learning, still curious, always looking for new challenges.
 
 ##
 
