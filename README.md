@@ -14,8 +14,8 @@ During my training process, I have known below tools basics:
 
  ![postman](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/6b4d1dd0-2689-499e-8ce7-df95627716ba)
   Postman  |    ![jira](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/bc1f6fb4-fef0-4b75-b02a-42fc00c4c41f)
- Jira    |    ![git](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/31e79c73-e18b-4c09-a90d-34fa58b14e74)    Git, Git Bash, GitHub    |    ![sql-file](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/4b6a479f-7db5-4504-8455-eb699a0ee110)    SQL    |    ![chrome](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/e438e762-4d4c-4e3c-a721-4593bc386876)        ChromeDevtools  | ![slack(1)](<img width="24" height="24" alt="slack(1)" src="https://github.com/user-attachments/assets/e5564c75-1552-4990-b54b-1ae7d6606bfd" />
-)    Slack   
+ Jira    |    ![git](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/31e79c73-e18b-4c09-a90d-34fa58b14e74)    Git, Git Bash, GitHub    |    ![sql-file](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/4b6a479f-7db5-4504-8455-eb699a0ee110)    SQL    |    ![chrome](https://github.com/agnieszka19882/agnieszka19882/assets/132834736/e438e762-4d4c-4e3c-a721-4593bc386876)        ChromeDevtools  | <img width="24" height="24" alt="slack(1)" src="https://github.com/user-attachments/assets/b13c6d09-1820-4eb0-bc27-ca6c3ed4ccdd" />
+   Slack   
  
 ##
 
